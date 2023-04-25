@@ -1,0 +1,12 @@
+{
+	"name": "obtain-images-from-a-url",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"images": "node obtainImagesFromAURL.mjs"
+	},
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
+		"node-fetch": "^3.3.1"
+	}
+}
